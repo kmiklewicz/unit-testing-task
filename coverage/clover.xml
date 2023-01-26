@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1674720076480" clover="3.2.0">
+  <project timestamp="1674720076480" name="All files">
+    <metrics statements="209" coveredstatements="189" conditionals="147" coveredconditionals="104" methods="77" coveredmethods="76" elements="433" coveredelements="369" complexity="0" loc="209" ncloc="209" packages="2" files="9" classes="9"/>
+    <package name="date-master">
+      <metrics statements="101" coveredstatements="97" conditionals="59" coveredconditionals="49" methods="40" coveredmethods="39"/>
+      <file name="unitTestingTask.js" path="/Users/kacper.miklewicz/Desktop/courses/date-master/unitTestingTask.js">
+        <metrics statements="101" coveredstatements="97" conditionals="59" coveredconditionals="49" methods="40" coveredmethods="39"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="24" count="32" type="stmt"/>
+        <line num="25" count="32" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="32" type="cond" truecount="1" falsecount="1"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="32" type="stmt"/>
+        <line num="34" count="32" type="stmt"/>
+        <line num="37" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="47" count="11" type="stmt"/>
+        <line num="50" count="10" type="stmt"/>
+        <line num="53" count="5" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="62" count="2" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="68" count="5" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="80" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="83" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="86" count="4" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+        <line num="92" count="4" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="104" count="18" type="stmt"/>
+        <line num="107" count="2" type="stmt"/>
+        <line num="110" count="3" type="stmt"/>
+        <line num="111" count="3" type="stmt"/>
+        <line num="112" count="3" type="stmt"/>
+        <line num="113" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="115" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="117" count="3" type="stmt"/>
+        <line num="120" count="2" type="stmt"/>
+        <line num="124" count="1" type="stmt"/>
+        <line num="125" count="1" type="stmt"/>
+        <line num="126" count="25" type="cond" truecount="1" falsecount="1"/>
+        <line num="127" count="25" type="stmt"/>
+        <line num="130" count="1" type="stmt"/>
+        <line num="171" count="71" type="cond" truecount="4" falsecount="0"/>
+        <line num="172" count="1" type="stmt"/>
+        <line num="175" count="70" type="cond" truecount="6" falsecount="0"/>
+        <line num="176" count="1" type="stmt"/>
+        <line num="179" count="69" type="cond" truecount="5" falsecount="1"/>
+        <line num="181" count="69" type="stmt"/>
+        <line num="183" count="69" type="cond" truecount="2" falsecount="0"/>
+        <line num="184" count="6" type="stmt"/>
+        <line num="186" count="63" type="stmt"/>
+        <line num="187" count="88" type="stmt"/>
+        <line num="197" count="1" type="stmt"/>
+        <line num="207" count="1" type="stmt"/>
+        <line num="208" count="187" type="cond" truecount="2" falsecount="0"/>
+        <line num="209" count="52" type="stmt"/>
+        <line num="212" count="135" type="cond" truecount="2" falsecount="0"/>
+        <line num="213" count="126" type="cond" truecount="4" falsecount="0"/>
+        <line num="214" count="72" type="stmt"/>
+        <line num="215" count="54" type="cond" truecount="1" falsecount="1"/>
+        <line num="216" count="54" type="stmt"/>
+        <line num="217" count="54" type="stmt"/>
+        <line num="218" count="8" type="stmt"/>
+        <line num="220" count="46" type="stmt"/>
+        <line num="223" count="80" type="stmt"/>
+        <line num="226" count="9" type="stmt"/>
+        <line num="227" count="9" type="stmt"/>
+        <line num="228" count="9" type="stmt"/>
+        <line num="232" count="1" type="stmt"/>
+        <line num="235" count="3" type="stmt"/>
+        <line num="239" count="2" type="stmt"/>
+        <line num="245" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="246" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="248" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="258" count="1" type="stmt"/>
+        <line num="259" count="7" type="stmt"/>
+        <line num="260" count="6" type="cond" truecount="3" falsecount="0"/>
+        <line num="261" count="6" type="stmt"/>
+        <line num="270" count="1" type="stmt"/>
+        <line num="290" count="1" type="stmt"/>
+        <line num="291" count="7" type="stmt"/>
+        <line num="292" count="7" type="stmt"/>
+        <line num="300" count="1" type="stmt"/>
+        <line num="301" count="1" type="stmt"/>
+        <line num="305" count="1" type="stmt"/>
+        <line num="306" count="1" type="stmt"/>
+        <line num="307" count="1" type="stmt"/>
+        <line num="308" count="1" type="stmt"/>
+        <line num="311" count="1" type="stmt"/>
+        <line num="318" count="1" type="stmt"/>
+        <line num="319" count="78" type="stmt"/>
+        <line num="320" count="78" type="stmt"/>
+        <line num="323" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="date-master.lang">
+      <metrics statements="108" coveredstatements="92" conditionals="88" coveredconditionals="55" methods="37" coveredmethods="37"/>
+      <file name="be.js" path="/Users/kacper.miklewicz/Desktop/courses/date-master/lang/be.js">
+        <metrics statements="17" coveredstatements="15" conditionals="14" coveredconditionals="10" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="22" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="35" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+      </file>
+      <file name="cs.js" path="/Users/kacper.miklewicz/Desktop/courses/date-master/lang/cs.js">
+        <metrics statements="14" coveredstatements="12" conditionals="12" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="22" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="37" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+      <file name="kk.js" path="/Users/kacper.miklewicz/Desktop/courses/date-master/lang/kk.js">
+        <metrics statements="10" coveredstatements="8" conditionals="8" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="22" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+      <file name="pl.js" path="/Users/kacper.miklewicz/Desktop/courses/date-master/lang/pl.js">
+        <metrics statements="14" coveredstatements="12" conditionals="12" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="22" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="38" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+      <file name="ru.js" path="/Users/kacper.miklewicz/Desktop/courses/date-master/lang/ru.js">
+        <metrics statements="18" coveredstatements="16" conditionals="16" coveredconditionals="11" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="22" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="34" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="44" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+      </file>
+      <file name="tr.js" path="/Users/kacper.miklewicz/Desktop/courses/date-master/lang/tr.js">
+        <metrics statements="9" coveredstatements="7" conditionals="6" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+      <file name="tt.js" path="/Users/kacper.miklewicz/Desktop/courses/date-master/lang/tt.js">
+        <metrics statements="9" coveredstatements="7" conditionals="6" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+      <file name="uk.js" path="/Users/kacper.miklewicz/Desktop/courses/date-master/lang/uk.js">
+        <metrics statements="17" coveredstatements="15" conditionals="14" coveredconditionals="10" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="22" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="36" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
